@@ -1,0 +1,15 @@
+{
+  name: "Siege Driver 1",
+  range: {
+    min: 4000,
+    max: 5000,
+  },
+  damage: {
+    dps: 28,
+    type: "Projectile",
+    aoe: 0,
+    spread: 0
+  },
+  speed: 500,
+  mass: 576,
+}
