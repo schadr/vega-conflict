@@ -1,0 +1,15 @@
+{
+  name: "Gladius Driver 2",
+  range: {
+    min: "2250",
+    max: "4750",
+  },
+  damage: {
+    dps: 25,
+    type: "Projectile",
+    aoe: 0,
+    spread: 0
+  },
+  speed: 2000,
+  mass: 513,
+}
