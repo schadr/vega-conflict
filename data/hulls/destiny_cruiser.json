@@ -1,0 +1,11 @@
+{
+  name: "Destiny Cruiser",
+  health: 450,
+  max_mass: 2125,
+  cargo: 32000,
+  speed: 320,
+  turning: 20,
+  strafe: 140,
+  sector_speed: 216,
+  type: "Cruiser", 
+}
