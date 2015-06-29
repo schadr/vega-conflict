@@ -1,0 +1,16 @@
+{
+  name: "NET Torpedo 1",
+  range: {
+    min: 2500,
+    max: 4500,
+  },
+  damage: {
+    dps: 13,
+    type: "Explosive",
+    aoe: 500,
+    spread: 5,
+    stasis: 30
+  },
+  speed: 1100,
+  mass: 675,
+}
