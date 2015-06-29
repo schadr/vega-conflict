@@ -1,0 +1,8 @@
+{
+  name: "Diffuser Shield 1",
+  type: "Energy",
+  mass: 167,
+  energy: 250,
+  defense: 90,
+  recharge: 25,
+}
