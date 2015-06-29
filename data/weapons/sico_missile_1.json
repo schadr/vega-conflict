@@ -1,0 +1,15 @@
+{
+  name: "SICO Missile 1",
+  range: {
+    min: 1800,
+    max: 4200,
+  },
+  damage: {
+    dps: 33,
+    type: "Explosive",
+    aoe: 450,
+    spread: 30
+  },
+  speed: 1800,
+  mass: 461,
+}
