@@ -1,0 +1,15 @@
+{
+  name: "Thermal Beam 2",
+  range: {
+    min: 0,
+    max: 3000,
+  },
+  damage: {
+    dps: 38,
+    type: "Energy",
+    aoe: 0,
+    spread: 0
+  },
+  speed: 3000,
+  mass: 396,
+}
