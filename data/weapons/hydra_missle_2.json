@@ -1,0 +1,15 @@
+{
+  name: "Hydra Missle 1",
+  range: {
+    min: "1500",
+    max: "4000",
+  },
+  damage: {
+    dps: 27,
+    type: "Explosive",
+    aoe: 350,
+    spread: 0
+  },
+  speed: 1400,
+  mass: 519,
+}
