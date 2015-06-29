@@ -1,8 +1,8 @@
 {
   name: "Gladius Driver 1",
   range: {
-    min: "2250",
-    max: "4750",
+    min: 2250,
+    max: 4750,
   },
   damage: {
     dps: 18,

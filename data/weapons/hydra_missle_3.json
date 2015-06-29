@@ -1,8 +1,8 @@
 {
   name: "Hydra Missle 3",
   range: {
-    min: "1500",
-    max: "4000",
+    min: 1500,
+    max: 4000,
   },
   damage: {
     dps: 34,
