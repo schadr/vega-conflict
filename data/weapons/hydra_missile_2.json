@@ -1,5 +1,5 @@
 {
-  name: "Hydra Missle 2",
+  name: "Hydra Missile 2",
   range: {
     min: 1500,
     max: 4000,
